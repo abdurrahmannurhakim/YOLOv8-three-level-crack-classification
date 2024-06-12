@@ -1,3 +1,11 @@
+#============================================================================
+# Name        : run.py
+# Author      : Abdurrahman Nurhakim
+# Version     : 1.0
+# Copyright   : Your copyright notice
+# Description : YOLO for classification of crack (hairline, structural, spaling) and manipulating image using OpenCV for adding text
+#============================================================================
+
 from PIL import Image #untuk pemrosesan gambar
 import subprocess #library subprosess untuk menjalankan program dari dalam program
 import cv2 #library openCV untuk memanipulasi gambar dan menampilkannya
